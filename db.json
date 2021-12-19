@@ -1,0 +1,33 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "apple",
+      "calories": 88,
+      "serving_size": 6,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 2,
+      "name": "chicken breast",
+      "calories": 125,
+      "serving_size": 32,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 3,
+      "name": "whole milk",
+      "calories": 340,
+      "serving_size": 2,
+      "serving_size_units": "oz"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Sam",
+      "lastname": "David",
+      "email": "nhungast@gmail.com"
+    }
+  ]
+}
